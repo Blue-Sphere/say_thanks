@@ -1,0 +1,615 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://i.imgur.com/VTI8hBr.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "珍惜當下",
+                "size": "xl",
+                "color": "#ffbc40",
+                "weight": "bold",
+                "offsetBottom": "5px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "人生最美好的時刻莫過於活在當下，珍惜當下所帶來的美好，感受自身周遭的全部，感謝、並享受它，感謝當下的美好，且享受當下的美妙！",
+                        "color": "#ebebeb",
+                        "size": "md",
+                        "wrap": true,
+                        "decoration": "underline"
+                      }
+                    ],
+                    "spacing": "lg"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "filler"
+                          },
+                          {
+                            "type": "icon",
+                            "url": "https://i.imgur.com/nTb0LNz.png",
+                            "size": "xl",
+                            "offsetEnd": "6px",
+                            "offsetBottom": "3.5px"
+                          },
+                          {
+                            "type": "text",
+                            "text": "屬於「珍惜當下」",
+                            "color": "#ffffff",
+                            "flex": 0,
+                            "offsetTop": "-5px"
+                          },
+                          {
+                            "type": "filler"
+                          }
+                        ],
+                        "borderWidth": "1px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "borderWidth": "1px",
+                    "cornerRadius": "4px",
+                    "spacing": "sm",
+                    "borderColor": "#ffffff",
+                    "margin": "lg",
+                    "height": "40px",
+                    "action": {
+                      "type": "message",
+                      "label": "action",
+                      "text": "+珍惜當下"
+                    },
+                    "position": "absolute",
+                    "width": "100%",
+                    "paddingEnd": "0.5%",
+                    "offsetTop": "20%"
+                  }
+                ],
+                "height": "50px"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#242424AA",
+            "paddingAll": "20px",
+            "paddingTop": "28px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://i.imgur.com/NxQsUpC.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "知足惜福",
+                "size": "xl",
+                "color": "#6495ed",
+                "weight": "bold",
+                "offsetBottom": "5px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "感謝當下所擁有的一切，像是還可以吃得飽，穿得暖，有人陪伴等，感謝自己比起他人，過得更加幸福、更加快樂！",
+                        "color": "#ebebeb",
+                        "size": "md",
+                        "wrap": true,
+                        "decoration": "underline"
+                      }
+                    ],
+                    "spacing": "lg"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "filler"
+                          },
+                          {
+                            "type": "icon",
+                            "url": "https://i.imgur.com/PNPktBC.png",
+                            "size": "xl",
+                            "offsetEnd": "6px",
+                            "offsetBottom": "3.5px"
+                          },
+                          {
+                            "type": "text",
+                            "text": "屬於「知足惜福」",
+                            "color": "#ffffff",
+                            "flex": 0,
+                            "offsetTop": "-5px"
+                          },
+                          {
+                            "type": "filler"
+                          }
+                        ],
+                        "borderWidth": "1px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "borderWidth": "1px",
+                    "cornerRadius": "4px",
+                    "spacing": "sm",
+                    "borderColor": "#ffffff",
+                    "margin": "lg",
+                    "height": "40px",
+                    "action": {
+                      "type": "message",
+                      "label": "action",
+                      "text": "+知足惜福"
+                    },
+                    "position": "absolute",
+                    "width": "100%",
+                    "paddingEnd": "0.5%",
+                    "offsetTop": "20%"
+                  }
+                ],
+                "height": "50px"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#242424AA",
+            "paddingAll": "20px",
+            "paddingTop": "28px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://i.imgur.com/wdLpw3v.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "逆境感恩",
+                "size": "xl",
+                "color": "#1cd9c9",
+                "weight": "bold",
+                "offsetBottom": "5px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "透過感受逆境、享受它、並感謝它，感謝逆境所帶來的困苦與艱難，使自身磨練得更加堅強，不畏風雨，迎接更具挑戰的未來！",
+                        "color": "#ebebeb",
+                        "size": "md",
+                        "wrap": true,
+                        "decoration": "underline"
+                      }
+                    ],
+                    "spacing": "lg"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "filler"
+                          },
+                          {
+                            "type": "icon",
+                            "size": "xl",
+                            "offsetEnd": "6px",
+                            "offsetBottom": "3.5px",
+                            "url": "https://i.imgur.com/e7N7y7v.png"
+                          },
+                          {
+                            "type": "text",
+                            "text": "屬於「逆境感恩」",
+                            "color": "#ffffff",
+                            "flex": 0,
+                            "offsetTop": "-5px"
+                          },
+                          {
+                            "type": "filler"
+                          }
+                        ],
+                        "borderWidth": "1px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "borderWidth": "1px",
+                    "cornerRadius": "4px",
+                    "spacing": "sm",
+                    "borderColor": "#ffffff",
+                    "margin": "lg",
+                    "height": "40px",
+                    "action": {
+                      "type": "message",
+                      "label": "action",
+                      "text": "+逆境感恩"
+                    },
+                    "position": "absolute",
+                    "width": "100%",
+                    "paddingEnd": "0.5%",
+                    "offsetTop": "20%"
+                  }
+                ],
+                "height": "50px"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#242424AA",
+            "paddingAll": "20px",
+            "paddingTop": "28px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://i.imgur.com/Lsyw4px.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "感謝他人",
+                "size": "xl",
+                "color": "#ff6781",
+                "weight": "bold",
+                "offsetBottom": "5px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "打從心裡感謝他人的付出，接受他人給予的鼓勵、恩惠、利益，使自己得到進步、完善、圓滿、成功之後，發自內心的感謝對方！",
+                        "color": "#ebebeb",
+                        "size": "md",
+                        "wrap": true,
+                        "decoration": "underline"
+                      }
+                    ],
+                    "spacing": "lg"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "filler"
+                          },
+                          {
+                            "type": "icon",
+                            "url": "https://i.imgur.com/WvObCLA.png",
+                            "size": "xl",
+                            "offsetEnd": "5px",
+                            "offsetBottom": "3.5px"
+                          },
+                          {
+                            "type": "text",
+                            "text": "屬於「感謝他人」",
+                            "color": "#ffffff",
+                            "flex": 0,
+                            "offsetTop": "-5px"
+                          },
+                          {
+                            "type": "filler"
+                          }
+                        ],
+                        "borderWidth": "1px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "borderWidth": "1px",
+                    "cornerRadius": "4px",
+                    "spacing": "sm",
+                    "borderColor": "#ffffff",
+                    "margin": "lg",
+                    "height": "40px",
+                    "action": {
+                      "type": "message",
+                      "label": "action",
+                      "text": "+感謝他人"
+                    },
+                    "position": "absolute",
+                    "width": "100%",
+                    "paddingEnd": "0.5%",
+                    "offsetTop": "20%"
+                  }
+                ],
+                "height": "50px"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#242424AA",
+            "paddingAll": "20px",
+            "paddingTop": "28px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://i.imgur.com/w8vBT24.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "感謝恩典",
+                "size": "xl",
+                "color": "#FF5151",
+                "weight": "bold",
+                "offsetBottom": "5px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "感謝上帝，創造美妙的世界，將自然萬物賜與我們，也感謝您在我們徬徨失措時，陪伴著我們一起面對，感謝您！",
+                        "color": "#ebebeb",
+                        "size": "md",
+                        "wrap": true,
+                        "decoration": "underline"
+                      }
+                    ],
+                    "spacing": "lg"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "filler"
+                          },
+                          {
+                            "type": "icon",
+                            "size": "xl",
+                            "offsetEnd": "6px",
+                            "offsetBottom": "5px",
+                            "url": "https://i.imgur.com/UwDKXT6.png"
+                          },
+                          {
+                            "type": "text",
+                            "text": "屬於「感謝恩典」",
+                            "color": "#ffffff",
+                            "flex": 0,
+                            "offsetTop": "-5px"
+                          },
+                          {
+                            "type": "filler"
+                          }
+                        ],
+                        "borderWidth": "1px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "borderWidth": "1px",
+                    "cornerRadius": "4px",
+                    "spacing": "sm",
+                    "borderColor": "#ffffff",
+                    "margin": "lg",
+                    "height": "40px",
+                    "action": {
+                      "type": "message",
+                      "label": "action",
+                      "text": "+感謝恩典"
+                    },
+                    "position": "absolute",
+                    "width": "100%",
+                    "paddingEnd": "0.5%",
+                    "offsetTop": "20%"
+                  }
+                ],
+                "height": "50px"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#242424AA",
+            "paddingAll": "20px",
+            "paddingTop": "28px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    }
+  ]
+}

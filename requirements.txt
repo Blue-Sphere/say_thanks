@@ -1,0 +1,6 @@
+line-bot-sdk==1.20.0
+fastapi==0.78.0
+deta==1.1.0
+pydantic==1.9.1
+typing_extensions==4.2.0
+certifi==2022.5.18.1
