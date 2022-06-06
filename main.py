@@ -70,7 +70,7 @@ def message_text(event):
             if sql_function.check_allow_to_get_point_status(user_id) == True:
                 aim = get_point_string.index(message)
                 sql_function.get_point(user_id, aim)
-                access_message = sql_function.get_point_message_detail(user_id, message, aim)
+                access_message = sql_function.get_point_message_detail(user_id, aim)
                 sql_function.change_get_point_status(user_id, False)
                 line_bot_api.reply_message(reply_token,TextSendMessage(access_message))
             line_bot_api.reply_message(reply_token,TextSendMessage("請先輸入感恩的內容才能選擇喔！"))

@@ -62,7 +62,7 @@ def load_message_temp(user_id: str):
     db = deta.Base("say_thanks")
     return db.get(user_id)["temp"]
 
-def get_point_message_detail(user_id: str, message: str, aim: int):
+def get_point_message_detail(user_id: str, aim: int):
     get_point_string = ("珍惜當下", "知足惜福", "逆境感恩", "感謝他人", "感謝恩典")
     message_from_temp = load_message_temp(user_id)
     dt1 = datetime.utcnow().replace(tzinfo=timezone.utc)
