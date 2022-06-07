@@ -83,4 +83,8 @@ def get_user_info(user_id):
         score_5= result["感謝恩典"]
     )
     return user_info
-    
+
+def rename(user_id, new_name):
+    deta = Deta(DETA_KEY)
+    db = deta.Base("say_thanks")
+    db.update({"name":new_name}, user_id)
