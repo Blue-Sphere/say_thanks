@@ -53,7 +53,7 @@ def message_text(event):
                 elif message == "/introduce":
                     flex_message = flex_message_function.thanks_type_template_flexMessage()
                     replay_array = []
-                    replay_array.append(TextSendMessage("嗨您好！我是此LineBot的開發人員！\n以下為此LineBot的開源程式碼。\n————\n除了某些安全問題的密鑰，其餘都以上傳至GitHub：https://github.com/Blue-Sphere/say_thanks"))
+                    replay_array.append(TextSendMessage("嗨您好！我是此LineBot的開發人員！\n以下為此LineBot的開源程式碼，除了某些安全問題的密鑰，其餘都以上傳至GitHub\n————\nhttps://github.com/Blue-Sphere/say_thanks"))
                     replay_array.append(TextSendMessage("這個聊天室主要是透過輸入相對訊息而執行後端的程式，其目的是為讓使用者更好的紀錄每日所感恩的事情，只要直接在訊息中輸入今天所感謝的事情後再選擇其中相對應的五大感恩類型，系統就可以為您紀錄專屬您的各項感恩類型總分，以下為方式與成效。"))
                     replay_array.append(TextSendMessage("方式：每天紀錄三件感恩的事\n成效：持續2週可以提升感恩、幸福感、樂觀"))
                     replay_array.append(TextSendMessage("以下為五大感恩類型的簡介，輸入感恩的內容後請記得選取相對應的感恩類型，系統才會為您加分喔！"))
