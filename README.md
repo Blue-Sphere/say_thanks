@@ -5,6 +5,7 @@
 - 加入好友網址：https://line.me/R/ti/p/%40723kkarn
 - 掃描QR code：
 <img src="https://i.imgur.com/3pDLWaY.png" width = "150" height = "150" alt="頭貼" align=center />
+
 ---
 
 ## 介紹 ##
